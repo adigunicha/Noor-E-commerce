@@ -16,7 +16,7 @@
         
     </div>
   </nav>
-  <div class="topbanner w-full relative flex items-center justify-center text-2xl flex-col ">
+  <div class="topbanner relative flex items-center justify-center text-2xl flex-col ">
         <span class=" py-5 text-white font-bold  ">#FeaturedProduct</span>
         <span class="text-white text-sm">Save more with coupons & up to 70% off!</span>
         

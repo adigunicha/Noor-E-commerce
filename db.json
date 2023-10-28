@@ -128,5 +128,70 @@
             "id":"36",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit laborum nostrum consequuntur quod, animi saepe ex sapiente pariatur similique accusantium."
         }
-     ]
+     ],
+     "blog":[
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa" ,
+            "id":"0"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
+            "id":"1"
+        }
+    ],
+    "blogtwo":[
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa" ,
+            "id":"0"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
+            "id":"1"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
+            "title":"Styling Tips",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
+            "id":"1"
+        }
+    ]
+
 }

@@ -8,7 +8,7 @@
     <div class="links flex space-x-6 font-bold items-center ">
         <NuxtLink to="/">Home</NuxtLink>
         <NuxtLink to="/product/section1">Shop</NuxtLink>
-        <NuxtLink to="/blog">Blog</NuxtLink>
+        <NuxtLink to="/blog/blogpost">Blog</NuxtLink>
         <NuxtLink to="/about">About</NuxtLink>
         <NuxtLink to="/contact">Contact</NuxtLink>
         <NuxtLink to=""><img class="cart" src="../assets/images/cart.svg" alt="cart"></NuxtLink>
