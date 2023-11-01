@@ -131,66 +131,66 @@
      ],
      "blog":[
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/82/3f/09/823f0981a5cec47783b1d94fa220abaa.jpg" ,
+            "title":"How to be classy" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa" ,
-            "id":"0"
-        },
-        {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
             "id":"1"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/61/f7/8e/61f78ecf326112e5cbe4bed9293403fd.jpg" ,
+            "title":"Seasonal Lookbooks" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
-            "id":"1"
+            "id":"2"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/dc/f8/e7/dcf8e751bfacaa5edfbc834641ac15dc.jpg" ,
+            "title":"Sustainable Fashion" ,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
+            "id":"3"
+        },
+        {
+            "img": "https://i.pinimg.com/564x/57/ca/b1/57cab1c8fa0a09d3f15180da46c31eb8.jpg" ,
+            "title":"Styling Options." ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
-            "id":"1"
+            "id":"4"
         },
         {
             "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
             "title":"Styling Tips",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
-            "id":"1"
+            "id":"5"
         }
     ],
     "blogtwo":[
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/98/e8/3e/98e83e9c860b01fd094d2645877ec099.jpg" ,
+            "title":"Wardrobe Essentials" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa" ,
-            "id":"0"
+            "id":"6"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/09/cd/44/09cd44d2decdca8f5c234f6d9a155488.jpg" ,
+            "title":"Fashion for Different Body Types" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
-            "id":"1"
+            "id":"7"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/6e/68/e0/6e68e057deb6a5a872af0f6149b0e33c.jpg" ,
+            "title":"Classic Modern Haircut" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!" ,
-            "id":"1"
+            "id":"8"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips" ,
+            "img": "https://i.pinimg.com/564x/a5/76/56/a57656640aa5eb0177b0db9232507977.jpg" ,
+            "title":"Fashion History" ,
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
-            "id":"1"
+            "id":"9"
         },
         {
-            "img": "https://i.pinimg.com/564x/e1/b8/0e/e1b80e4e416716fa406e3d98b6c5a463.jpg" ,
-            "title":"Styling Tips",
+            "img": "https://i.pinimg.com/564x/b3/81/1f/b3811fed425da3db1176f6a09afaf4bd.jpg" ,
+            "title":"Styling Tips 2",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat earum neque culpa officiis necessitatibus aut repellendus ipsam dolores natus recusandae veniam vitae eligendi deleniti, ea veritatis animi cum eaque enim Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores voluptatibus et suscipit molestiae impedit dolor cupiditate earum! Doloremque obcaecati recusandae nihil distinctio consequatur odio at beatae corporis quos repellat quis qui architecto minus magnam, cupiditate, est enim tempore! Quaerat odit alias non quasi. Cumque neque harum modi ratione, placeat ipsa?!",
-            "id":"1"
+            "id":"10"
         }
     ]
 

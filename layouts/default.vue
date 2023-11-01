@@ -16,7 +16,7 @@
         
     </div>
   </nav>
-  <div class="body ">
+  <div class="body">
     <slot/>
   </div>
   

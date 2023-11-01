@@ -19,7 +19,7 @@
 
 <script setup>
   const {id} = useRoute().params
-  const url = ' http://localhost:3000/blog/'+id
+  const url = ' http://localhost:3000/blogtwo/'+id
   const{data:product} = await useFetch(url,{key:id})
 </script>
 

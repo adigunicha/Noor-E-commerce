@@ -11,7 +11,7 @@
   
     </div>
   <!-- the blog post -->
-    <div class="pl-5 grid col-auto gap-5 ">
+    <div class="pl-5 pt-5 grid gap-5 ">
      <div class=" relative card gap-5  p-5 rounded-md bg-white flex items-center flex-row h-full justify-start shadow-sm  " v-for="blog in product" :key="blog.id">
        <div class="max-w-lg" >
            <img class="imgblog" :src="blog.img" :alt="blog.id">
@@ -20,7 +20,7 @@
           <span class=" gradient-text font-semibold text-2xl">{{ blog.title }}</span>  
           <p class="truncate text-gray-600"> {{ blog.description }} </p> 
          <div class="btn flex flex-row gap-3 items-center">
-          <NuxtLink class=" gradient-text font-semibold">Continue reading</NuxtLink>
+          <NuxtLink :to="`/blog/${blog.id}`"  class=" gradient-text font-semibold">Continue reading</NuxtLink>
           <div class="stroke "></div>
           </div>  
           </div>
@@ -39,7 +39,7 @@
           <span class=" gradient-text font-semibold text-2xl">{{ blogs.title }}</span>  
           <p class="truncate text-gray-600"> {{ blogs.description }} </p> 
          <div class="btn flex flex-row gap-3 items-center">
-          <NuxtLink class=" gradient-text font-semibold">Continue reading</NuxtLink>
+          <NuxtLink :to="`/moreblogs/${blogs.id}`"  class=" gradient-text font-semibold">Continue reading</NuxtLink>
           <div class="stroke "></div>
           </div>  
           </div>
@@ -58,7 +58,6 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue';
  const {data:product}= await useFetch(' http://localhost:3000/blog')
  const {data:product2} = await useFetch(' http://localhost:3000/blogtwo')
  const showmore = ref(false)
@@ -92,6 +91,7 @@ import { onMounted } from 'vue';
   background: linear-gradient(to right, #3f3736, #856f35);
   -webkit-background-clip: text;
   color: transparent; /* Hide the original text color */
+  cursor: pointer;
 }
 .showmore{
   padding: 2px;
@@ -99,5 +99,12 @@ import { onMounted } from 'vue';
   width: 200px;
   border-radius: 8px;
   cursor: pointer;
+}
+.card:hover{
+  transform: translateY(-10px);
+
+}
+.card{
+  transition:transform .6s
 }
 </style>
