@@ -6,14 +6,18 @@
 </template>
 
 <script setup>
-
+const emits = defineEmits();
+  
  const quantity = ref()
- const emit = defineEmits(['quantity-updated'])
+
 
  const emitquantity=()=>{
 
-     emit('quantity-updated',quantity.value)
+    emits('quantity-updated', quantity.value);
+
+    
  }
+
 
 </script>
 

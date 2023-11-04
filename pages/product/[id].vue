@@ -10,7 +10,7 @@
        <span class="text-xl font-bold">   ${{ product.price }}</span>
         <sizebar/>
         <quanitity @quantity-updated="updatedquantity"/>
-        <totalprice :updatedquantity="currentQuantity" :price="product.price" />
+        <totalprice :updatequantity="currentQuantity" :price="product.price" />
         <NuxtLink class=" navbtn p-5 font-bold">Add To Cart</NuxtLink>
 
        <div class="productdescritption flex gap-3 flex-col mt-3">
@@ -27,12 +27,16 @@
   const {id} = useRoute().params
   const url = 'https://fakestoreapi.com/products/'+id
   const{data:product} = await useFetch(url,{key:id})
-    const currentQuantity = ref();
-
+       
+  const currentQuantity = ref(1)
+   
     const updatedquantity = (quantity) => {
-      currentQuantity.value = quantity;
-    };
-  
+      
+     currentQuantity.value = quantity;
+   
+    };  
+
+    
 </script>
 
 <style scoped>

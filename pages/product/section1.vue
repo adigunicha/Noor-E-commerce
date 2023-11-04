@@ -1,7 +1,7 @@
-<template>
-    
- <div>
-    
+<template v-slot:product= "searchresult">
+   
+ <div >
+  {{ searchresult }}
     <div class="productcard grid grid-cols-4 gap-4 m-5">
         <div class="card p-3 rounded-md bg-white flex items-center flex-col h-full justify-start shadow-sm  " v-for="p in products" :key="p.id">
              <NuxtLink :to="`/product/${p.id}`">

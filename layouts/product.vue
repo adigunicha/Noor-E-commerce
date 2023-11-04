@@ -22,14 +22,14 @@
         
          <!-- searchbarcomponent  -->
         <div class="component my-5  text-base flex items-center justify-center">
-        <searchbar/>
+        <searchbar @productsearch="handlesearch" />
       </div>
 
     </div>
      
   
     </div>
-    <slot/>
+    <slot :searchresult="searchresult" />
   <div class="button m-5 flex items-center justify-center">
    
     <NuxtLink class="btn shadow-sm"  to="/product/section1">1</NuxtLink>
@@ -40,7 +40,10 @@
 </template>
 
 <script setup>
-
+const searchresult = ref('hell0')
+  // const handlesearch=(productsearch)=>{
+  //     searchresult.value = productsearch
+  // }
 </script>
 
 <style scoped>

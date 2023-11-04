@@ -2,7 +2,7 @@
     <div>
       <form action="">
         <div class="inpdiv">
-          <input v-model="txtinput" @input="handleinput" class=" inptxt"  type="text" placeholder="Search Product"> 
+          <input v-model="txtinput" class=" inptxt"  type="text" placeholder="Search Blog"> 
         <button><img src="~/assets/images/search.svg" alt=""></button>
         </div>
        
@@ -13,11 +13,7 @@
 
 <script setup>
    const txtinput = ref('')
-   const emits = defineEmits();
-    const handleinput=()=>{
-       
-        emits('productsearch', txtinput.value );
-     }
+   
    
 </script>
 

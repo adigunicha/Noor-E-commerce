@@ -6,7 +6,7 @@
         
          <!-- searchbarcomponent  -->
         <div class="component my-5  text-base flex items-center justify-center">
-        <searchbar/>
+        <blogsearchbar/>
       </div>
   
     </div>
